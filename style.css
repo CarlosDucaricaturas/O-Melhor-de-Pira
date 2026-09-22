@@ -139,7 +139,7 @@ html, body {
     .faixa-destaque {
       background-color: rgba(21, 21, 43, 0.932); /* Cor de fundo */
       padding:0 10px ;          /* Altura da faixa (espaçamento) */
-      width: 100%; 
+       width: 450px;  
       height: 180px;             /* Largura total */
       
   }
