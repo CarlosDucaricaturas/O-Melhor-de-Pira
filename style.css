@@ -147,7 +147,7 @@ html, body {
   
     
     .background {
-      width:  400px ;
+      width:  420px ;
       height: 1250px;
     content:'';
     background-image: url('Imagens/fundo\ 1.jpg');
@@ -194,7 +194,7 @@ html, body {
    
       width: 22px;
       height: 22px;
-      margin-right: -510px;
+      margin-right: -570px;
       margin-left: -50px;
       margin-top: -86px;
       margin-bottom: 60px;
