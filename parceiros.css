@@ -157,7 +157,7 @@ html, body {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover; /* Faz a imagem cobrir toda a área sem distorcer */
-    width: 100vw;
+    width: ;
     height: 100vh;
     margin: 0;
     padding: 0;
