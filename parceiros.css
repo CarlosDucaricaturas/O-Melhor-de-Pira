@@ -168,8 +168,7 @@ html, body {
     /* Evita que a imagem fique se repetindo */
     background-repeat: no-repeat; 
     
-    /* Mantém o fundo fixo ao rolar a página (opcional) */
-    background-attachment: fixed; 
+   
   
   
   
