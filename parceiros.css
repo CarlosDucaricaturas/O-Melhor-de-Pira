@@ -156,6 +156,10 @@ html, body {
     width: 100%  ;
     height: 200%;
   
+ .background {
+    width: 100%  ;
+    height: 600%;
+  
   background-image: url('Imagens/fundo\ 1.jpg');
 
     
@@ -168,14 +172,14 @@ html, body {
     /* Evita que a imagem fique se repetindo */
     background-repeat: no-repeat; 
     
-   
+    /* Mantém o fundo fixo ao rolar a página (opcional) */
+    background-attachment: fixed; 
   
   
   
     
   
   }
-
     header nav ul {
       text-align: center;
       margin-right: -250px;
