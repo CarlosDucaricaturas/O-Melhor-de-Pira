@@ -134,7 +134,7 @@ html, body {
         
 
 
-  @media screen and (max-width: 1020px){
+  @media screen and (max-width: 500px){
 
     .faixa-destaque {
       background-color: rgba(21, 21, 43, 0.932); /* Cor de fundo */
