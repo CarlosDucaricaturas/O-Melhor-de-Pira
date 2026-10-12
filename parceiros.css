@@ -179,7 +179,7 @@ html, body {
     background-attachment: fixed ; 
   }
     html, body {
-          height: 100%;
+          height: 110%;
           margin: 0;
         }
         
@@ -188,7 +188,7 @@ html, body {
           background-repeat: no-repeat;
           background-position: center;
           background-size: cover; /* Cobre 100% do elemento mantendo a proporção */
-          height: 100vh; /* Ocupa 100% da altura da janela visível */
+          height: 105vh; /* Ocupa 100% da altura da janela visível */
           width: 100%;
         }
 
