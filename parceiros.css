@@ -176,21 +176,22 @@ html, body {
     background-repeat: no-repeat; 
     
     /* Mantém o fundo fixo ao rolar a página (opcional) */
-    background-attachment: fixed ; 
+    background-attachment:  ; 
   }
-    html, body {
-          height: 010%;
-          margin: 0;
-        }
-        
-        .fundo-tela {
-          background-image: url('Imagens/fundo\ 1.jpg');
-          background-repeat: no-repeat;
-          background-position: center;
-          background-size: cover; /* Cobre 100% do elemento mantendo a proporção */
-          height: 100vh; /* Ocupa 100% da altura da janela visível */
-          width: 100%;
-        }
+
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .fundo-tela {
+    background-image: url('Imagens/fundo\ 1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; /* Cobre 100% do elemento mantendo a proporção */
+    height: 100vh; /* Ocupa 100% da altura da janela visível */
+    width: 100%;
+  }
 
     header nav ul {
       text-align: center;
